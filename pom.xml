@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.maxwell</groupId>
-	<artifactId>apigee.demo</artifactId>
+	<artifactId>swagger2.demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>apigee.demo</name>
+	<name>swagger2.demo</name>
 	<description>Demo project for Spring Boot REST API with Swagger2</description>
 
 	<properties>

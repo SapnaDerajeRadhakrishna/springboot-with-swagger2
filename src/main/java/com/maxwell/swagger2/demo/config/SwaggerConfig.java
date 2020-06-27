@@ -20,7 +20,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
 	@Bean
 	public Docket productApi() {
 		return new Docket(DocumentationType.SWAGGER_2).select()
-				.apis(RequestHandlerSelectors.basePackage("org.calix.apigee.demo"))
+				.apis(RequestHandlerSelectors.basePackage("com.maxwell.swagger2.demo"))
 				.paths(regex("/.*")).build()
 				.apiInfo(metaData());
 	}
@@ -28,11 +28,11 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
 	private ApiInfo metaData() {
 		return new ApiInfoBuilder()
 				.title("Spring Boot REST API")
-				.description("\"Spring Boot REST API for APIGEE demo\"")
+				.description("\"Spring Boot REST API for Swagger2 demo\"")
 				.version("1.0.0")
 				.license("Apache License Version 2.0")
 				.licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
-				.contact(new Contact("Sapna Radhakrishna", "", "sapna.radhakrishna@calix.com"))
+				.contact(new Contact("Sapna Radhakrishna", "", "sapna.dr@gmail.com"))
 				.build();
 	}
 

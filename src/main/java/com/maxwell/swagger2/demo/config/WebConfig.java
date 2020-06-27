@@ -1,6 +1,6 @@
 package com.maxwell.swagger2.demo.config;
 /*
- * package org.calix.apigee.demo.config; import org.apache.catalina.Context;
+ * import org.apache.catalina.Context;
  * import org.apache.catalina.connector.Connector; import
  * org.apache.tomcat.util.descriptor.web.SecurityCollection; import
  * org.apache.tomcat.util.descriptor.web.SecurityConstraint; import
