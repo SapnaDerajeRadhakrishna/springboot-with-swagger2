@@ -1,4 +1,4 @@
-package com.maxwell.apigee.demo.config;
+package com.maxwell.swagger2.demo.config;
 /*
  * package org.calix.apigee.demo.config; import org.apache.catalina.Context;
  * import org.apache.catalina.connector.Connector; import

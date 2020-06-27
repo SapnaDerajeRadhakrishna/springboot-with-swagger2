@@ -1,4 +1,4 @@
-package com.maxwell.apigee.demo.controller;
+package com.maxwell.swagger2.demo.controller;
 
 
 import java.net.URI;
@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.maxwell.apigee.demo.config.Student;
-import com.maxwell.apigee.demo.service.StudentService;
+import com.maxwell.swagger2.demo.config.Student;
+import com.maxwell.swagger2.demo.service.StudentService;
 
 @RestController
 @RequestMapping("/students")

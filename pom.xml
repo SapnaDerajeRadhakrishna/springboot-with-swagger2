@@ -13,7 +13,7 @@
 	<artifactId>apigee.demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apigee.demo</name>
-	<description>Demo project for Spring Boot REST API with APIGEE</description>
+	<description>Demo project for Spring Boot REST API with Swagger2</description>
 
 	<properties>
 		<java.version>1.8</java.version>

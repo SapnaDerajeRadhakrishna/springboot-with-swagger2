@@ -1,4 +1,4 @@
-package com.maxwell.apigee.demo.service;
+package com.maxwell.swagger2.demo.service;
 
 import java.util.Arrays;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
-import com.maxwell.apigee.demo.config.Student;
+import com.maxwell.swagger2.demo.config.Student;
 
 @Service
 public class StudentService {

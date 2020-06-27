@@ -1,4 +1,4 @@
-package com.maxwell.apigee.demo.config;
+package com.maxwell.swagger2.demo.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

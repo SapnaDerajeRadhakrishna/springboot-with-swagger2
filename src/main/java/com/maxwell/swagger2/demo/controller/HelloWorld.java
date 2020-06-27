@@ -1,4 +1,4 @@
-package com.maxwell.apigee.demo.controller;
+package com.maxwell.swagger2.demo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
